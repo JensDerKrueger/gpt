@@ -1,0 +1,5 @@
+print(abs(-5))
+print(max(1,5,67,3,19,0))
+print(min(1,5,67,3,19,0))
+print(sorted([1,45,4,89,8]))
+print(sum([1,45,4,89,8]))
